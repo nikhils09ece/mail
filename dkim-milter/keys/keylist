@@ -1,0 +1,3 @@
+# sender-pattern:signing-domain:keypath
+# *:example.com:selector
+*:mk-hy.starfishfx.com:/etc/dkim-milter/default
